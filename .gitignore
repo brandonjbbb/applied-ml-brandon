@@ -1,3 +1,9 @@
+# ===============================
+# Git Ignore — Brandon J / Applied ML
+# ===============================
+
+
+
 # This project .gitignore file
 # lists content that does NOT need to be tracked for project history.
 
@@ -83,3 +89,6 @@ site/
 .mypy_cache/
 .pytype/
 .cache/
+.venv-jupyter
+.venv
+.ipynb_checkpoints/

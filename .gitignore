@@ -92,3 +92,5 @@ site/
 .venv-jupyter
 .venv
 .ipynb_checkpoints/
+.venv-jupyter
+.ipynb_checkpoints/

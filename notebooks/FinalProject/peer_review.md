@@ -1,6 +1,6 @@
 # Peer Review: Albert Kabore – Medical Insurance Cost Regression
 
-**Reviewer:** Brandon Jan  
+**Reviewer:** Brandon
 **Date:** November 23, 2025  
 
 **Notebook Reviewed:** [Albert Kabore – Final Project: Regression Analysis - Medical Insurance Costs](https://github.com/albertokabore/ml-07-kabore/blob/main/Albertkabore_Regression.ipynb)
